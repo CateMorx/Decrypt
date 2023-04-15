@@ -2,6 +2,11 @@
 #Assignment 2 (Item 2:Decryption)
 
 #Imports necessary elements
+from asciimatics.effects import Cycle, Stars
+from asciimatics.renderers import FigletText
+from asciimatics.scene import Scene
+from asciimatics.screen import Screen
+
 #Asks for user input
 #Converts the following characters: * = 'a', & = 'e' , # = 'i' , + = 'o',! = 'u'
 #Prints and animates the final output
