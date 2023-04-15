@@ -1,5 +1,7 @@
 # Decrypt
 This is a python program that allows the user to Decypt various characters. It converts the following characters: * = 'a', & = 'e' , # = 'i' , + = 'o',! = 'u'
+
+
 ![Alt Text](Decrypt.gif)
 
 # Needed Packages to Install
