@@ -14,3 +14,13 @@ string=input(str("Please Input your statement:"))
 new_string= (string.replace("*","a").replace("&","e").replace("#","i").replace("+","o").replace("!","u"))
 
 #Prints and animates the final output
+def input(screen):
+    final_string=new_string
+    effects = [
+        Cycle(screen,
+              FigletText(final_string, font= 'avatar'),
+              int(screen.height / 2-8)),
+        Stars(screen, 200)
+    ]
+    screen.play([Scene(effects,500)])
+Screen.wrapper(input)
