@@ -1,10 +1,10 @@
 # Decrypt
-Converts the following characters: 'a' = *, 'e' = &amp; , 'i' = # , 'o' = + 'u' = !
+Converts the following characters: 'a' = *, 'e' = & , 'i' = # , 'o' = + 'u' = !
 
 # Needed Packages to Install
 Asciimatics
 
-# Installation
+# Installation of Packages
 ```
 pip install asciimatics
 ```
