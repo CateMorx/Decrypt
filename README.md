@@ -6,6 +6,7 @@ This is a python program that allows the user to Decypt various characters. It c
 
 # Needed Packages to Install
 Asciimatics
+
 Asciimatics is a package to help people create full-screen text UIs (from interactive forms to ASCII animations) on any platform. It is licensed under the Apache Software Foundation License 2.0. It provides a single cross-platform Python class to do all the low-level console function you could ask for, including:
 -Coloured/styled text - including 256 colour terminals and unicode characters (even CJK languages)
 -Cursor positioning
