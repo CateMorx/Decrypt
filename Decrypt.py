@@ -8,5 +8,7 @@ from asciimatics.scene import Scene
 from asciimatics.screen import Screen
 
 #Asks for user input
+string=input(str("Please Input your statement:"))
+
 #Converts the following characters: * = 'a', & = 'e' , # = 'i' , + = 'o',! = 'u'
 #Prints and animates the final output
